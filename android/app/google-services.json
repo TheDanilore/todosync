@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "58406842277",
+    "project_id": "to-do-sync-app",
+    "storage_bucket": "to-do-sync-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58406842277:android:4d391c4d5a51d38821824c",
+        "android_client_info": {
+          "package_name": "com.example.todosync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58406842277-uqit6t8kif5lcpjug7dvb32om8sbarbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todosync",
+            "certificate_hash": "bc2538376c68a01fef4ccf68aa4d56a9e05d4330"
+          }
+        },
+        {
+          "client_id": "58406842277-7hu08qjkl8ott59jvj55se04cg8drlg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJb4dtPwhd1nl2Sdgs21Pm_enWMIKJs_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58406842277-7hu08qjkl8ott59jvj55se04cg8drlg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
